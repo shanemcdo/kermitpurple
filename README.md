@@ -1,8 +1,8 @@
 ### Hello All!
 
 - 🔭 I’m currently working on getting my degree at CSUCI.
-- 🌱 I’m currently learning Rust and Shell Scripting
-- 💬 Ask me about rust enums!
+- 🌱 I’m currently learning Rust and Shell scripting
+- 💬 Ask me about Rust enums!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite language is Python!
 

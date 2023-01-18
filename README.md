@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Rust and Shell scripting
 - 💬 Ask me about Rust enums!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite language is Python!
+- ⚡ Fun fact: My favorite language is Rust!
 
 [My website](https://kermitpurple.github.io/)
 
